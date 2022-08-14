@@ -1,6 +1,6 @@
 # Berserker Discord Bot
 
-Repository of Berserker bot 
+Discord bot based on Music, Reddit, Poll, Gaming, Levelling Translate and Moderation!
 
 Berserker is offline due to discords policy about developers and discord bots.
 
