@@ -1,1 +1,1 @@
-worker: node deneme.js
+worker: node berserker.js
