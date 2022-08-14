@@ -3271,7 +3271,7 @@ ${serverQueue5.songs.map(song => `**${i++}.** ${song.title}`).join('\n')}
 
     }
     function slowmode(message) {
-      let lao = message.channel.permissionsFor("785607160243552348").has("MANAGE_CHANNELS", false);
+      let lao = message.channel.permissionsFor(process.env.botid).has("MANAGE_CHANNELS", false);
       if (lao == false) {
         return message.channel.send("Missing permission. Check Berserker's permissions.").catch((error) => {
           return;
@@ -4036,7 +4036,7 @@ client.on('message', message => {
   } catch (err) {
     return;
   }
-  if (user == 785607160243552348) {
+  if (user == process.env.botid) {
     (async () => {
 
       const settings = await Guild.findOne({
