@@ -2,8 +2,18 @@
 
 Berserker is offline due to discords policy about developers and discord bots.
 
-Discord bot based on Music, Reddit, Poll, Gaming, Levelling Translate and Moderation!
+Discord bot based on Music, Reddit, Poll, Gaming, Levelling Translate and Moderation.
+
 ![alt text](https://cdn.discordapp.com/attachments/786493986042675243/1008291692467736636/1612270252771_1.png)
+
+Berserker released on 8 Dec 2020, active for 1 year 7 months 3 days. Thank you for 178283 users.
+
+![alt text](https://cdn.discordapp.com/attachments/786493986042675243/1008298229642833950/-1_orig.jpeg)
+
+With code optimisation database query rate drop down to 60 msg/s to 12 msg/s, reduced approximately 80%.
+
+![alt text](https://cdn.discordapp.com/attachments/786493986042675243/1008293385230102528/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/786493986042675243/1008293903763525642/lool.PNG)
 
 # Commands
 Works with 49 different commands
