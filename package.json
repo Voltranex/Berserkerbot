@@ -1,15 +1,15 @@
 {
-  "name": "denemebotu",
+  "name": "Berserker",
   "version": "0.0.1",
   "description": "",
-  "main": "deneme.js",
+  "main": "Berserker.js",
   "engines": {
     "node": "14.15.1"
   },
   "scripts": {
     "test": "node deneme.js"
   },
-  "author": "Deneme",
+  "author": "Voltranex",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
