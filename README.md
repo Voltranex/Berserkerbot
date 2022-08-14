@@ -1,4 +1,4 @@
-# Berserkerbot
+# Berserker Discord Bot
 
 Repository of Berserker bot 
 
